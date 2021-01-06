@@ -1,4 +1,14 @@
-Nodenode_modules/
-Webstorm.idea/
-Projectdist/
+# Ignore Mac system files
+node_modules
+
+#Ignore webstorm files 
+Webstorm.idea
+
+#Project dist
+Projectdist
+
+#Ignore MAC system files
 .DS_store
+
+# Ignore SASS config files
+.sass-cache
