@@ -1,3 +1,4 @@
 Nodenode_modules/
 Webstorm.idea/
 Projectdist/
+.DS_store
