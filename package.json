@@ -1,19 +1,22 @@
 {
-  "name": "test",
+  "name": "react-boilerplate",
   "version": "1.0.0",
-  "description": "npm install",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jgustavoj/javascript-drumkit-challenge-1.git"
+    "url": "git+https://github.com/jgustavoj/react-boilerplate.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jgustavoj/javascript-drumkit-challenge-1/issues"
+    "url": "https://github.com/jgustavoj/react-boilerplate/issues"
   },
-  "homepage": "https://github.com/jgustavoj/javascript-drumkit-challenge-1#readme"
+  "homepage": "https://github.com/jgustavoj/react-boilerplate#readme",
+  "devDependencies": {
+    "prettier": "2.2.1"
+  }
 }
